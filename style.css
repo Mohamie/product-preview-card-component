@@ -129,6 +129,7 @@ button{
     color: var(--text-light-color);
     font-size: 1.6rem;
     font-weight: 700;
+    cursor: pointer;
 }
 
 button img{
